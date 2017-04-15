@@ -1,0 +1,1 @@
+# look-same-word-collection
