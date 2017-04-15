@@ -17,6 +17,6 @@ dictation
 effective  
 efficient
 
-further
-farther
-father
+further  
+farther  
+father  
