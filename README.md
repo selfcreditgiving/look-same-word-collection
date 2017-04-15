@@ -1,13 +1,16 @@
 # look-same-word-collection
 
-compliment
-complement
-com
+compliment  
+complement  
+complete  
 
-compliant
-complaint
+compliant  
+complaint  
+complain  
 
 
-dictate 
-indicate
+dictate  
+indicate  
+dictation  
+
 
