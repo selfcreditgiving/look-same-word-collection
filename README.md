@@ -20,3 +20,6 @@ efficient
 further  
 farther  
 father  
+
+royal  
+loyal  
