@@ -34,3 +34,7 @@ preposition
 comment  
 commendation  
 
+subtle
+settle
+sub
+
