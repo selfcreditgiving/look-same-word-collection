@@ -23,3 +23,14 @@ father
 
 royal  
 loyal  
+
+proposition  
+position  
+proposal  
+propose  
+compose  
+preposition  
+
+comment  
+commendation  
+
