@@ -3,6 +3,7 @@
 compliment  
 complement  
 complete  
+compete  
 
 compliant  
 complaint  
@@ -13,4 +14,5 @@ dictate
 indicate  
 dictation  
 
-
+effective  
+efficient
