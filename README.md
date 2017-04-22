@@ -54,3 +54,12 @@ indent
 embrace  
 brave  
 
+viable  
+variable  
+various  
+variety  
+
+visual  
+virtual  
+
+
