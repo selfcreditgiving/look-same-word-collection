@@ -58,8 +58,14 @@ viable
 variable  
 various  
 variety  
+vulnerable  
 
 visual  
 virtual  
 
+liable  
+reliable  
+
+incur  
+occur  
 
