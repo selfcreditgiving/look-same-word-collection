@@ -50,6 +50,7 @@ soup
 
 intend  
 indent  
+intent  
 
 embrace  
 brave  
@@ -68,4 +69,16 @@ reliable
 
 incur  
 occur  
+
+grip  
+grid  
+grep 
+
+strip   
+stripe  
+strap  
+strike 
+
+bold  
+bald  
 
