@@ -104,4 +104,6 @@ adopt
 principal  
 principle  
 
+aid  
+aim  
 
