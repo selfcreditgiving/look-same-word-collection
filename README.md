@@ -91,4 +91,16 @@ sophisticated
 acknowledge  
 knowledge  
 
+router  
+route  
+root  
+
+sign  
+sigh  
+
+adapt  
+adopt  
+
+
+
 
