@@ -103,6 +103,7 @@ adopt
 
 principal  
 principle  
+discipline  
 
 aid  
 aim  
