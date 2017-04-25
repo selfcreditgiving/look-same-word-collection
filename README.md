@@ -110,3 +110,6 @@ aim
 superb  
 superior  
 super  
+
+premise  
+promise  
