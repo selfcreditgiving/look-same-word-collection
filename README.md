@@ -113,3 +113,6 @@ super
 
 premise  
 promise  
+
+holistic  
+historic  
