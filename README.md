@@ -23,6 +23,7 @@ father
 
 royal  
 loyal  
+glory  
 
 proposition  
 position  
@@ -81,4 +82,13 @@ strike
 
 bold  
 bald  
+
+magnificent  
+significant  
+fascinating  
+sophisticated  
+
+acknowledge  
+knowledge  
+
 
