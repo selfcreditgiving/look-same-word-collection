@@ -123,7 +123,10 @@ well-being
 wellness  
 
 provision  
-supervision    
-prevision  
+supervision  
+prevision  
 vision  
+
+voluntary  
+vulnerable  
 
