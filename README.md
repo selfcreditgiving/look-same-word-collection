@@ -117,3 +117,13 @@ promise
 
 holistic  
 historic  
+
+welfare  
+well-being  
+wellness  
+
+provision  
+supervision    
+prevision  
+vision  
+
