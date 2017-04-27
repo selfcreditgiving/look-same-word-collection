@@ -52,6 +52,7 @@ soup
 intend  
 indent  
 intent  
+tend  
 
 embrace  
 brave  
@@ -142,3 +143,9 @@ thought
 populate  
 popular  
 population  
+
+passive  
+active  
+positive  
+negative  
+
