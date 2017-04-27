@@ -130,3 +130,11 @@ vision
 voluntary  
 vulnerable  
 
+desperately  
+separate  
+depressed  
+despair  
+
+through  
+thorough  
+thought  
