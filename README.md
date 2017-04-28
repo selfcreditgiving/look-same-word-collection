@@ -154,3 +154,8 @@ bit
 
 lose  
 loose  
+
+relative  
+perspective  
+respectively  
+respect  
