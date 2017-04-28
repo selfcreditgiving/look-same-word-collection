@@ -162,3 +162,6 @@ respect
 
 designate  
 design  
+
+aggregate  
+segregate  
