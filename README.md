@@ -151,3 +151,6 @@ negative
 
 bitter  
 bit  
+
+lose  
+loose  
