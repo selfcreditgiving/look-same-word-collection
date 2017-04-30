@@ -147,7 +147,7 @@ popular
 population  
 
 passive  
-active  
+active  
 positive  
 negative  
 
