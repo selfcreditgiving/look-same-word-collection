@@ -90,6 +90,7 @@ magnificent
 significant  
 fascinating  
 sophisticated  
+frustrating  
 
 acknowledge  
 knowledge  
