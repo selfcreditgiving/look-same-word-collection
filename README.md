@@ -34,6 +34,8 @@ preposition
 
 comment  
 commendation  
+commend  
+recommend  
 
 subtle  
 settle  
