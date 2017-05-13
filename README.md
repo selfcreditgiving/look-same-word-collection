@@ -174,3 +174,8 @@ files
 
 achieve  
 archive  
+
+sorely  
+sole  
+solo  
+soul  
