@@ -182,3 +182,6 @@ soul
 
 inception  
 injection  
+
+triangle  
+trilingual  
