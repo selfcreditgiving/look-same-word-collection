@@ -186,3 +186,5 @@ injection
 triangle  
 trilingual  
 
+footage  
+foot  
