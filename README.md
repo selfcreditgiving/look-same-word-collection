@@ -188,3 +188,7 @@ trilingual
 
 footage  
 foot  
+
+catalyst  
+catalog  
+catagory  
