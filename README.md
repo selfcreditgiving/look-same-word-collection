@@ -192,3 +192,7 @@ foot
 catalyst  
 catalog  
 catagory  
+
+pleasure  
+pressure  
+
