@@ -196,3 +196,5 @@ catagory
 pleasure  
 pressure  
 
+precious  
+previous  
